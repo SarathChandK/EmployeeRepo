@@ -4,7 +4,7 @@ public class Service {
 	
 	public void test()
 	{
-		System.out.println("test method changed");
+		System.out.println("test method changed2");
 	}
 
 }
